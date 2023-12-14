@@ -1,0 +1,2 @@
+C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\ar.exe qc libgraph-puzzle-game-pelinsupehlevan.a "CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/src/main.cpp.obj"
+C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\ranlib.exe libgraph-puzzle-game-pelinsupehlevan.a
