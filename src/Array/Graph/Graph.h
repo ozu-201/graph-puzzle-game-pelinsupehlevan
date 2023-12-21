@@ -13,6 +13,7 @@ namespace array{
     class Graph : public AbstractGraph{
     private:
         int** edges;
+        std::string* names;
     public:
         explicit Graph(int vertexCount);
         ~Graph();
@@ -23,10 +24,16 @@ namespace array{
         Path* dijkstra(int source);
         int** floydWarshall();
         void prim();
+        std::string* getNames();
+        int **getEdges();
+        void addName(int index, std::string name);
+
     protected:
         void depthFirstSearch(bool* visited, int fromNode) override;
         void breadthFirstSearch(bool* visited, int startNode) override;
         Edge* edgeList(int& edgeCount) override;
+
+
     };
 
 }

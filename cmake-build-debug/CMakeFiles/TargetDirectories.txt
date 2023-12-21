@@ -1,3 +1,8 @@
 C:/Users/TEMP/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir
+C:/Users/TEMP/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/TestLinkedList.dir
+C:/Users/TEMP/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/MathematicalExpression.dir
+C:/Users/TEMP/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/Polynomial.dir
+C:/Users/TEMP/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/DartsGame.dir
+C:/Users/TEMP/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/main.dir
 C:/Users/TEMP/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/TEMP/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/rebuild_cache.dir

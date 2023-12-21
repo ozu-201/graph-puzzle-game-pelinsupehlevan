@@ -2,6 +2,7 @@
 // Created by Olcay Taner YILDIZ on 8.05.2023.
 //
 
+#include <string>
 #include "Graph.h"
 #include "../DisjointSet.h"
 #include "../Queue.h"
@@ -12,6 +13,7 @@ namespace array{
 
     Graph::Graph(int vertexCount) : AbstractGraph(vertexCount){
         edges = new int*[vertexCount];
+        names = new std::string[vertexCount];
         for (int i = 0; i < vertexCount; i++){
             edges[i] = new int[vertexCount];
         }
@@ -180,5 +182,17 @@ namespace array{
             }
         }
     }
+
+    void Graph::addName(int index, std::string name) {
+        names[index] = std::move(name);
+    }
+    std::string* Graph::getNames() {
+        return names;
+    }
+    int **Graph::getEdges() {
+        return edges;
+    }
+
+
 
 }
