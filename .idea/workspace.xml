@@ -26,174 +26,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc0803eb-f6ae-4448-8897-59726844a61d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/graph-puzzle-game-pelinsupehlevan.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/LinkedListTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Test/LinkedListTest.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/catch.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/Test/catch.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-8e8c7707136a0c1d1d23.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-eb5ec8d046c45ca74ea6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-58340d4a99e313e2735e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-12-14T12-28-22-0853.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-graph-puzzle-game-pelinsupehlevan-Debug-dd8dceff6d2def92ccdf.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DataStructures_CPP.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DataStructures_CPP.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DataStructures_CPP.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DataStructures_CPP.dir/cmake_clean_target.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DataStructures_CPP.dir/compiler_depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DataStructures_CPP.dir/compiler_depend.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DataStructures_CPP.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DataStructures_CPP.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DataStructures_CPP.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DataStructures_CPP.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MathematicalExpression.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MathematicalExpression.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Polynomial.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Polynomial.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestLinkedList.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TestLinkedList.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/compiler_depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/compiler_depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/compiler_depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/src/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/src/main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/src/main.cpp.obj.d" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/src/main.cpp.obj.d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/DataStructures_CPP.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/graph-puzzle-game-pelinsupehlevan.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/graph-puzzle-game-pelinsupehlevan.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/libgraph-puzzle-game-pelinsupehlevan.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/libgraph-puzzle-game-pelinsupehlevan.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conanfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/conanfile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/DartsGame/Element.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/DartsGame/Element.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/DartsGame/Queue.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/DartsGame/Queue.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/DartsGame/State.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/DartsGame/State.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/DartsGame/Test.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/DisjointSet.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/DisjointSet.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/DisjointSet.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/DisjointSet.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Element.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Element.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Element.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Element.h" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/.cmake/api/v1/reply/index-2023-12-21T12-38-28-0026.json" beforeDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/a.exe" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/compiler_depend.internal" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/compiler_depend.internal" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/compiler_depend.make" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/src/Array/Graph/Graph.cpp.obj" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/src/Array/Graph/Graph.cpp.obj" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/src/Array/Graph/Graph.cpp.obj.d" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/src/Array/Graph/Graph.cpp.obj.d" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/src/General/AbstractGraph.cpp.obj" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/src/General/AbstractGraph.cpp.obj" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/src/General/AbstractGraph.cpp.obj.d" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/src/General/AbstractGraph.cpp.obj.d" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/src/List/Graph/Graph.cpp.obj" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/src/List/Graph/Graph.cpp.obj" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/src/List/Graph/Graph.cpp.obj.d" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/src/List/Graph/Graph.cpp.obj.d" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/src/main.cpp.obj" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/src/main.cpp.obj" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/src/main.cpp.obj.d" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/graph-puzzle-game-pelinsupehlevan.dir/src/main.cpp.obj.d" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/main.dir/compiler_depend.internal" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/main.dir/compiler_depend.internal" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/main.dir/compiler_depend.make" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/main.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/main.dir/objects.a" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/main.dir/objects.a" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/main.dir/src/main.cpp.obj" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/main.dir/src/main.cpp.obj" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/main.dir/src/main.cpp.obj.d" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/CMakeFiles/main.dir/src/main.cpp.obj.d" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/libgraph-puzzle-game-pelinsupehlevan.a" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/libgraph-puzzle-game-pelinsupehlevan.a" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/main.exe" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/cmake-build-debug/main.exe" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/src/Array/Graph/Graph.cpp" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/src/Array/Graph/Graph.cpp" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/src/Array/Graph/Graph.h" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/src/Array/Graph/Graph.h" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/src/General/AbstractGraph.cpp" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/src/General/AbstractGraph.cpp" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/src/General/AbstractGraph.h" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/src/General/AbstractGraph.h" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/src/List/Graph/Graph.cpp" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/src/List/Graph/Graph.cpp" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/src/List/Graph/Graph.h" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/src/List/Graph/Graph.h" afterDir="false" />
+      <change beforePath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/src/main.cpp" beforeDir="false" afterPath="$USER_HOME$/CLionProjects/graph-puzzle-game-pelinsupehlevan/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Array/Graph/Graph.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Graph/Graph.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Array/Graph/Graph.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Graph/Graph.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Hash.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Hash.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Hash.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Hash.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Heap/DHeap.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Heap/DHeap.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Heap/DHeap.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Heap/DHeap.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Heap/Heap.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Heap/Heap.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Heap/Heap.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Heap/Heap.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Heap/HeapNode.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Heap/HeapNode.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Heap/HeapNode.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Heap/HeapNode.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Heap/MaxDHeap.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Heap/MaxDHeap.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Heap/MaxDHeap.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Heap/MaxDHeap.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Heap/MaxHeap.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Heap/MaxHeap.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Heap/MaxHeap.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Heap/MaxHeap.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Heap/MinDHeap.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Heap/MinDHeap.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Heap/MinDHeap.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Heap/MinDHeap.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Heap/MinHeap.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Heap/MinHeap.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Heap/MinHeap.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Heap/MinHeap.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/MathematicalExpression/Element.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/MathematicalExpression/Element.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/MathematicalExpression/Evaluate.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/MathematicalExpression/Stack.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/MathematicalExpression/Stack.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/MathematicalExpression/Token.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/MathematicalExpression/Token.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/MathematicalExpression/TokenType.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Queue.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Queue.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Queue.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Queue.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Set.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Set.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Set.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Set.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Sort/BubbleSort.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Sort/BubbleSort.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Sort/BucketSort.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Sort/BucketSort.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Sort/HeapSort.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Sort/HeapSort.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Sort/InsertionSort.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Sort/InsertionSort.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Sort/MergeSort.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Sort/MergeSort.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Sort/QuickSort.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Sort/QuickSort.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Sort/SelectionSort.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Sort/SelectionSort.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Sort/ShellSort.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Sort/ShellSort.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Sort/Sort.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Stack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Stack.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Stack.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Stack.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CMakeLists.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/General/AbstractGraph.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/General/AbstractGraph.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/General/AbstractGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/General/AbstractGraph.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/General/Path.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/General/Path.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/General/Path.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/General/Path.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/DoublyLinkedList.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/DoublyLinkedList.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/DoublyLinkedList.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/DoublyLinkedList.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/DoublyNode.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/DoublyNode.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/DoublyNode.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/DoublyNode.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/Graph/Edge.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/Graph/Edge.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/Graph/Edge.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/Graph/Edge.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/Graph/EdgeList.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/Graph/EdgeList.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/Graph/EdgeList.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/Graph/EdgeList.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/List/Graph/Graph.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/Graph/Graph.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/List/Graph/Graph.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/Graph/Graph.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/Hash.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/Hash.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/Hash.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/Hash.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/LinkedList.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/LinkedList.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/LinkedList.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/LinkedList.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/Node.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/Node.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/Node.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/Node.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/Polynomial/Polynomial.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/Polynomial/Polynomial.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/Polynomial/Term.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/Polynomial/Term.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/Polynomial/TermNode.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/Polynomial/TermNode.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/Polynomial/TestPolynomial.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/Queue.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/Queue.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/Queue.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/Queue.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/Stack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/Stack.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/Stack.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/Stack.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/AvlTree.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/AvlTree.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/AvlTreeNode.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/AvlTreeNode.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/BTree.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/BTree.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/BTreeNode.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/BTreeNode.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/Element.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/Element.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/Queue.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/Queue.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/Stack.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/Stack.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/Tree.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/Tree.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/TreeNode.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/TreeNode.h" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.h" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,29 +89,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "last_opened_file_path": "C:/Users/TEMP/CLionProjects/graph-puzzle-game-pelinsupehlevan/CMakeLists.txt",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "CMakeSettings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/TEMP/CLionProjects/graph-puzzle-game-pelinsupehlevan/CMakeLists.txt&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CMakeSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\TEMP\CLionProjects\graph-puzzle-game-pelinsupehlevan" />
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.main">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestLinkedList" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="graph-puzzle-game-pelinsupehlevan" TARGET_NAME="TestLinkedList" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="graph-puzzle-game-pelinsupehlevan" RUN_TARGET_NAME="TestLinkedList" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -255,11 +134,6 @@
       </method>
     </configuration>
     <configuration name="Polynomial" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="graph-puzzle-game-pelinsupehlevan" TARGET_NAME="Polynomial" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="graph-puzzle-game-pelinsupehlevan" RUN_TARGET_NAME="Polynomial">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -293,6 +167,7 @@
       <updated>1703160957645</updated>
       <workItem from="1703160959937" duration="864000" />
       <workItem from="1703161852853" duration="2604000" />
+      <workItem from="1704374301614" duration="404000" />
     </task>
     <servers />
   </component>

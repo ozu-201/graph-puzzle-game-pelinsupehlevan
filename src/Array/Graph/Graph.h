@@ -8,6 +8,9 @@
 
 #include "../../General/AbstractGraph.h"
 #include "../../List/Graph/Edge.h"
+#include "iostream"
+#include <string>
+#include "vector"
 
 namespace array{
     class Graph : public AbstractGraph{
@@ -27,10 +30,11 @@ namespace array{
         std::string* getNames();
         int **getEdges();
         void addName(int index, std::string name);
-
+        void bfsRecursive (std::string startNode, std::string endNode, std::vector<int> &path, std::vector<int> &shortestPath, std::vector<bool>& visited);
+        int findIndex (std::string word);
+        void breadthFirstSearch(std::string startNode , std::string endNode) override;
     protected:
         void depthFirstSearch(bool* visited, int fromNode) override;
-        void breadthFirstSearch(bool* visited, int startNode) override;
         Edge* edgeList(int& edgeCount) override;
 
 

@@ -3,11 +3,16 @@
 //
 
 #include <string>
+#include <vector>
+#include <iostream>
 #include "Graph.h"
 #include "../DisjointSet.h"
 #include "../Queue.h"
 #include "../Heap/Heap.h"
 #include "../Heap/MinHeap.h"
+
+void bfsRecursive(std::string startNode, std::string endNode, std::vector<int> &path, std::vector<int> &shortestPath,
+                  std::vector<bool> &visited);
 
 namespace array{
 
@@ -31,12 +36,12 @@ namespace array{
         delete[] edges;
     }
 
-    void Graph::addEdge(int from, int to) {
-        edges[from][to] = 1;
+    void Graph::addEdge(std::string from, std::string to) {
+        edges[findIndex(from)][findIndex(to)] = 1;
     }
 
-    void Graph::addEdge(int from, int to, int weight) {
-        edges[from][to] = weight;
+    void Graph::addEdge(std::string from, std::string to, int weight) {
+        edges[findIndex(from)][findIndex(to)] = weight;
     }
 
     void Graph::connectedComponentDisjointSet() {
@@ -63,9 +68,37 @@ namespace array{
         }
     }
 
-    void Graph::breadthFirstSearch(bool *visited, int startNode) {
-        int fromNode;
-        Queue queue = Queue(100);
+    void Graph::breadthFirstSearch(std::string startNode , std::string endNode) {
+
+        int startIndex = findIndex(startNode);
+        int endIndex = findIndex(endNode);
+
+        std::vector<int> path;
+        std::vector<int> shortestPath;
+        std::vector<bool> visited(vertexCount, false);
+
+        /*queue.enqueue(Element(startIndex));
+        visited[startIndex] =true;
+        distances[startIndex] = 0;*/
+        //path.push_back(startIndex);
+
+        bfsRecursive(startNode, endNode, path, shortestPath, visited) ;
+
+        if (shortestPath.empty()) {
+            std::cout << "no possible path" << std::endl;
+        }
+        else {
+            std::cout << "Shortest path: ";
+            for ( int node : path) {
+                std::cout << names[node] << " ";
+            }
+                std::cout <<  std::endl;
+            }
+        }
+       /* delete[] visited;
+        delete[] distances;*/
+
+        /*  Queue queue = Queue(100);
         queue.enqueue( Element(startNode));
         while (!queue.isEmpty()){
             fromNode = queue.dequeue().getData();
@@ -77,7 +110,30 @@ namespace array{
                     }
                 }
             }
+        }*/
+
+
+    void Graph::bfsRecursive (std::string startNode, std::string endNode, std::vector<int> &path, std::vector<int> &shortestPath, std::vector<bool>& visited) {
+
+        int startIndex = findIndex(startNode);
+        int endIndex = findIndex(endNode);
+        path.push_back(startIndex);
+        visited[startIndex] = true;
+
+        if (startIndex == endIndex && shortestPath.empty() || path.size() < shortestPath.size()) {
+            shortestPath = path;
+        } else {
+            for (int toNode = 0 ; toNode < vertexCount ; toNode++ ) {
+                if (edges[startIndex][toNode] > 0 && !visited[toNode]) {
+                    bfsRecursive(names[toNode], endNode, path, shortestPath, visited);
+                }
+            }
         }
+        visited[startIndex] = false;
+        path.pop_back();
+
+
+
     }
 
     Path *Graph::bellmanFord(int source) {
@@ -193,6 +249,13 @@ namespace array{
         return edges;
     }
 
-
+     int Graph::findIndex (std::string word) {
+        for (int i = 0 ; i < vertexCount ; i++ ) {
+            if (names[i] == word) {
+                return i;
+            }
+        }
+        return -1;
+    }
 
 }

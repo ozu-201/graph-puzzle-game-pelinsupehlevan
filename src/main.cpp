@@ -62,8 +62,8 @@ int main () {
                     diff++;
                 }
                 if ( diff == 1 ) {
-                    threeLetter.addEdge(i,j);
-                    threeLetter.addEdge(j,i);
+                    threeLetter.addEdge(threeLetter.names[i],threeLetter.names[j]);
+                    threeLetter.addEdge(threeLetter.names[j],threeLetter.names[i]);
                 }
             }
         }
@@ -78,8 +78,8 @@ int main () {
                     diff++;
                 }
                 if ( diff == 1 ) {
-                    fourLetter.addEdge(i,j);
-                    fourLetter.addEdge(j,i);
+                    fourLetter.addEdge(fourLetter.names[i],fourLetter.names[j]);
+                    fourLetter.addEdge(fourLetter.names[j],fourLetter.names[i]);
                 }
             }
         }
@@ -94,8 +94,8 @@ int main () {
                     diff++;
                 }
                 if ( diff == 1 ) {
-                    fiveLetter.addEdge(i,j);
-                    fiveLetter.addEdge(j,i);
+                    fiveLetter.addEdge(fiveLetter.names[i],fiveLetter.names[j]);
+                    fiveLetter.addEdge(fiveLetter.names[j],fiveLetter.names[i]);
                 }
             }
         }
@@ -108,7 +108,8 @@ int main () {
     std::cout << threeLetter.getNames()[2] << endl;
     std::cout << threeLetter.getNames()[3] << endl;
     std::cout << threeLetter.getNames()[4] << endl;*/
-    std::cout << threeLetter.getEdges(0) << endl;
+    // std::cout << threeLetter.getEdges() << endl;
+    threeLetter.breadthFirstSearch("ally" , "abel");
 
 
 

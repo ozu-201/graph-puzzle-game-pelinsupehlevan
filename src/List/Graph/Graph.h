@@ -8,6 +8,7 @@
 
 #include "EdgeList.h"
 #include "../../General/AbstractGraph.h"
+#include "iostream"
 
 namespace list {
 
@@ -25,7 +26,8 @@ namespace list {
         void prim();
     protected:
         void depthFirstSearch(bool* visited, int fromNode) override;
-        void breadthFirstSearch(bool* visited, int startNode) override;
+        //void breadthFirstSearch(bool* visited, int startNode) override;
+        void breadthFirstSearch(std::string startNode , std::string endNode) override;
         Edge* edgeList(int& edgeCount) override;
     };
 
